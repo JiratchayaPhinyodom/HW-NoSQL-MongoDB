@@ -7,7 +7,7 @@
 
 ## Insert data
 ``` 
-    db.studentscores.insertMany([
+    db.StudentCourse.insertMany([
     {"name":"Ramesh","subject":"maths","marks":87},
     {"name":"Ramesh","subject":"english","marks":59},
     {"name":"Ramesh","subject":"science","marks":77},
